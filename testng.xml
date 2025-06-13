@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/Users/thodlaskaris/Desktop/LinqAcademy/TestNG_Maven/src/test/java/TestCase3.java"><classes/></test></suite>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/Users/thodlaskaris/Desktop/LinqAcademy/TestNG_Maven/src/test/java/pararell/TestCase1.java"><classes><class name="pararell.TestCase1"><methods><include name="testStep_1"/><include name="testStep_2"/><include name="testStep_3"/></methods></class></classes></test></suite>
